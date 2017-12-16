@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=fsociety
+Comment=fsociety P2P Cryptocurrency
+Comment[fr]=fsociety, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=fsociety, eşten eşe kriptografik sanal para birimi
+Comment[es]=fsociety, una criptomoneda P2P
+Exec=/usr/bin/fsociety-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/fsociety;
+Categories=Office;

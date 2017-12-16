@@ -1,0 +1,2 @@
+debian/bin/fsocietyd usr/bin
+src/fsocietyd usr/lib/fsociety
